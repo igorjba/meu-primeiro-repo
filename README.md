@@ -1,2 +1,2 @@
 # meu-primeiro-repo
-Meu primeiro repositório na Cubos Academy
+Meu primeiro repositório após entrar na Cubos Academy.
